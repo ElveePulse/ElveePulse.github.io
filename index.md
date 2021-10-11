@@ -4,28 +4,29 @@ title: "The Elvee Project"
 ---
 <img style="float: left;" src="/photos/logo1.png" height = 200px width = 400px>
 <br/><br/>
-The Elvee Project é um Open Source Firmware criado pelo doutorando [Lúcio Vasconcelos]. <br/>
-O Elvee é um relógio não comercial que visa começar a aplicar o conhecimento de engenharia em sala de aula diretamente em situações práticas, direcionando alunos a um possível projeto de curso.
+
+The Elvee Project is an Open Source Firmware created by doctoral student [Lúcio Vasconcelos].
+Elvee is a non-commercial watch that aims to start applying engineering knowledge in the classroom directly in practical situations, directing students towards a possible course project.
 
 ------
 
-The Elvee Project conta com as versões:
+Currently there are the following versions:
 *  [Elvee Light](https://sampaioleticia.github.io/elvee_light/)
 *  [Elvee Pulse](https://sampaioleticia.github.io/elvee_pulse/)
 *  [Elvee Education](https://sampaioleticia.github.io/elvee_education/)
 
-Sendo o Elvee Pulse acompanhado com Instruções de Montagem disponível em:
+The Elvee Pulse is accompanied by Assembly Instructions available at:
 * [Create your own Elvee Pulse!](https://sampaioleticia.github.io/create_your_own/)
 
-Confira também outras páginas:
+See the following pages:
 * [Hardware](https://sampaioleticia.github.io/hardware/)
 * [Firmware](https://sampaioleticia.github.io/firmware/)
 * [3D case](https://sampaioleticia.github.io/3D_case/)
 * [Printed Board](https://sampaioleticia.github.io/printed_board/)
 
-Mídia do projeto:
+Project media:
 * [GitHub](https://github.com/ElveePulse)
 * [Email]
 
-Mídia do desenvolvedor:
+Developer media:
 * [Linkedin]
