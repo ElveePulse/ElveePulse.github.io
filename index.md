@@ -2,7 +2,7 @@
 layout: page
 title: "The Elvee Project"
 ---
-<img style="float: left;" src="/Fotos/logo1.png" height = 200px width = 400px>
+<img style="float: left;" src="/photos/logo1.png" height = 200px width = 400px>
 <br/><br/>
 The Elvee Project é um Open Source Firmware criado pelo doutorando [Lúcio Vasconcelos]. <br/>
 O Elvee é um relógio não comercial que visa começar a aplicar o conhecimento de engenharia em sala de aula diretamente em situações práticas, direcionando alunos a um possível projeto de curso.
