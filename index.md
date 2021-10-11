@@ -5,7 +5,7 @@ title: "The Elvee Project"
 <img style="float: left;" src="/photos/logo1.png" height = 200px width = 400px>
 <br/><br/>
 
-The Elvee Project is an Open Source Firmware created by doctoral student [Lúcio Vasconcelos].
+The Elvee Project is an Open Source Firmware created by doctoral student [Lúcio Vasconcelos].<br/>
 Elvee is a non-commercial watch that aims to start applying engineering knowledge in the classroom directly in practical situations, directing students towards a possible course project.
 
 ------
