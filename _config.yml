@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Elvee Project"
+author: ""
+description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -8,22 +8,28 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
+show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_sidebar: true        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {title: "The Elvee Project",file: "index.md",  icon: home, sidebaricon: home}
+  - {title: "Elvee Light", file: "elvee_light.md",  icon: briefcase, sidebaricon: briefcase}
+  - {title: "Elvee Pulse", file: "elvee_pulse.md",  icon: briefcase, sidebaricon: briefcase} 
+  - {title: "Elvee Education", file: "elvee_education.md",  icon: briefcase, sidebaricon: briefcase} 
+  - {title: "Create your own Elvee Pulse!", file: "create_your_own.md",  icon: briefcase, sidebaricon: briefcase}  
+  - {title: "Hardware", file: "hardware.md",  icon: briefcase, sidebaricon: briefcase} 
+  - {title: "Firmware", file: "firmware.md",  icon: briefcase, sidebaricon: briefcase} 
+  - {title: "3D case", file: "3D_case.md",  icon: briefcase, sidebaricon: briefcase} 
+  - {title: "Printed Board", file: "printed_board.md",  icon: briefcase, sidebaricon: briefcase} 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
+  - {title: Github, icon: github, url: "https://github.com/ElveePulse"}
+  - {title: Linkedin, icon: linkedin, url: ""}
+  - {title: Mail, icon: envelope, url: ""}
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
