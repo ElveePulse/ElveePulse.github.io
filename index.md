@@ -2,7 +2,7 @@
 layout: page
 title: "The Elvee Project"
 ---
-<img style="float: left;" src="/photos/logo3.png" height = 270px width = 270px>
+<img style="float: left;" src="/photos/logo3.png" height = 240px width = 240px>
 <br/><br/>
 
 The Elvee Project is an Open Source Firmware created by doctoral student [Lúcio Vasconcelos].<br/>
