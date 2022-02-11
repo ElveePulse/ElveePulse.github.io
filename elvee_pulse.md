@@ -7,7 +7,7 @@ Dados Elvee Pulse
 
 ------
 
-<img style="float: left;" src="/photos/bot.png" height = 240px width = 240px>
+<img style="float: left;" src="/photos/bot.png" height = 180px width = 180px>
 <br/><br/>
 
 ---
@@ -22,7 +22,7 @@ push button
 
 ------
 
-<img style="float: left;" src="/photos/bat.png" height = 240px width = 240px>
+<img style="float: left;" src="/photos/bat.png" height = 180px width = 180px>
 <br/><br/>
 
 ---
