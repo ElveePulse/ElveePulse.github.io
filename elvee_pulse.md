@@ -9,7 +9,9 @@ Dados Elvee Pulse
 
 <img style="float: left;" src="/photos/bot.png" height = 240px width = 240px>
 <br/><br/>
+
 ---
+
 push button
 
 
@@ -22,7 +24,9 @@ push button
 
 <img style="float: left;" src="/photos/bat.png" height = 240px width = 240px>
 <br/><br/>
+
 ---
+
 Bateria
 
 
@@ -35,7 +39,9 @@ Bateria
 
 <img style="float: left;" src="/photos/HR.png" height = 240px width = 240px>
 <br/><br/>
+
 ---
+
 Hertz
 
 
@@ -48,7 +54,9 @@ Hertz
 
 <img style="float: left;" src="/photos/SpO2.png" height = 240px width = 240px>
 <br/><br/>
+
 ---
+
 SpO2
 
 
