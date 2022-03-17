@@ -6,10 +6,12 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="LV-IMG-117 EVP-MCU assembly parts Step1" class="d-block w-100" alt="...">
+      <img style="float: left;" src="/photos/LV-IMG-036 20-0200 Kit A parts-assembled.png" height = 240px width = 240px>
+<br/><br/>
     </div>
     <div class="carousel-item">
-      <img src="LV-IMG-036 20-0200 Kit A parts-assembled" class="d-block w-100" alt="...">
+     <img style="float: left;" src="/photos/LV-IMG-117 EVP-MCU assembly parts Step1.png" height = 240px width = 240px>
+<br/><br/>
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
