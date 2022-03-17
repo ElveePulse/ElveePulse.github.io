@@ -6,11 +6,11 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img style="float: left;" src="/photos/LV-IMG-036 20-0200 Kit A parts-assembled.png" height = 240px width = 240px>
+      <img style="float: left;" src="/photos/LV-IMG-036 20-0200 Kit A parts-assembled.png">
 <br/><br/>
     </div>
     <div class="carousel-item">
-     <img style="float: left;" src="/photos/LV-IMG-117 EVP-MCU assembly parts Step1.png" height = 240px width = 240px>
+     <img style="float: left;" src="/photos/LV-IMG-117 EVP-MCU assembly parts Step1.png">
 <br/><br/>
     </div>
   </div>
