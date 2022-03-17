@@ -2,11 +2,11 @@
 layout: page
 title: "The Elvee Project"
 ---
-<img style="float: left;" src="/photos/logo3.png" height = 240px width = 240px>
+<img style="float: left;" src="/photos/logo1.png" height = 240px width = 240px>
 <br/><br/>
 
-The Elvee Project is an Open Source Firmware created by doctoral student [Lúcio Vasconcelos].<br/>
-Elvee is a non-commercial watch that aims to start applying engineering knowledge in the classroom directly in practical situations, directing students towards a possible course project.
+The Elvee Project is an open source Firmware created by PhD student Lucio Santos, since 2021. [Lúcio Vasconcelos].<br/>
+Elvee Pulse is an open source device developed as an initial project proposal to apply classroom engineering knowledge directly into practical situations, directing students towards a possible course project.
 
 ------
 
