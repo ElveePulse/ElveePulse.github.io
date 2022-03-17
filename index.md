@@ -2,7 +2,7 @@
 layout: page
 title: "The Elvee Project"
 ---
-<img style="float: left;" src="/photos/logo1.png">
+<img style="float: left;" src="/photos/logo1.png" height = 480px width = 240px>
 <br/><br/>
 
 The Elvee Project is an open source Firmware created by PhD student Lucio Santos, since 2021. [Lúcio Vasconcelos].<br/>
