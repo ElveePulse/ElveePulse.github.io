@@ -14,7 +14,7 @@ Dados Elvee Pulse
 
 Push Button
 
-<img style="float: left;" src="https://thingspeak.com/channels/1642080/charts/4?bgcolor=%23ffffff&color=%2328B463&dynamic=true&results=30&type=spline" height = 240px width = 240px>
+<img style="float: left;" src="https://s3.static.brasilescola.uol.com.br/be/2020/12/girassol.jpg" height = 240px width = 240px>
 <br/><br/>
   *  [EVP#008](https://thingspeak.com/channels/1642080/charts/4?bgcolor=%23ffffff&color=%2328B463&dynamic=true&results=30&type=spline)
 
