@@ -1,0 +1,51 @@
+---
+layout: page
+title: "Tutorials"
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slideshow</title>
+    
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body>
+    <h2 class="w3-center">Slideshow Automatico</h2>
+    <div class="w3-content w3-section w3-center" style="max-width:500px">
+        <img class="slide" src="IMG/IMG1.jpg" style="width:100%">
+        <img class="slide" src="IMG/IMG2.jpg" style="width:100%">
+        <img class="slide" src="IMG/IMG3.jpg" style="width:100%">
+        <img class="slide" src="IMG/IMG4.jpg" style="width:100%">
+        <img class="slide" src="IMG/IMG5.jpg" style="width:100%">
+        <a href="https://br.freepik.com/home">Dsign By Leonardo / Alphacoders Img 1</a>
+        <br>
+        <a href="https://br.freepik.com/home">Dsign By Carlos / Alphacoders Img 2</a>
+        <br>
+        <a href="https://br.freepik.com/home">Dsign By Pedro / Alphacoders Img 3</a>
+        <br>
+        <a href="https://br.freepik.com/home">Dsign By Jainson / Alphacoders Img 4</a>
+        <br>
+        <a href="https://br.freepik.com/home">Dsign By Lucas / Alphacoders Img 5</a>
+        <br>
+    </div>
+    <script>
+        var index = 0;
+        carousel();
+        function carousel() {
+            var i;
+            var x = document.getElementsByClassName("slide");
+            for(i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            index++;
+            if(index > x.length) {index = 1}
+            x[index - 1].style.display = "block";
+            setTimeout(carousel, 2000); //Imagem é trocada a cada 2 segundos
+        }
+    </script>
+</body>
+</html>

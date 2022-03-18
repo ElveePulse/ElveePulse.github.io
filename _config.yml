@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Explanation of the system",file: "explanation of the system.md",  icon: briefcase, sidebaricon: briefcase}
   - {title: "Starter hardware",file: "starter hardware.md",  icon: briefcase, sidebaricon: briefcase}
   - {title: "Make Yourself",file: "make yourself.md",  icon: briefcase, sidebaricon: briefcase}
-  - {title: "Tutorials",file: "tutorials.md",  icon: briefcase, sidebaricon: briefcase}
+  - {title: "Tutorials",file: "tutorials.html",  icon: briefcase, sidebaricon: briefcase}
   - {title: "Elvee Light", file: "elvee_light.md",  icon: briefcase, sidebaricon: briefcase}
   - {title: "Elvee Pulse", file: "elvee_pulse.md",  icon: briefcase, sidebaricon: briefcase} 
   - {title: "Elvee Education", file: "elvee_education.md",  icon: briefcase, sidebaricon: briefcase} 
