@@ -17,6 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "The Elvee Project",file: "index.md",  icon: home, sidebaricon: home}
+   - {title: "Explanation of the system",file: "explanation of the system.md",  icon: briefcase, sidebaricon: briefcase}
   - {title: "Elvee Light", file: "elvee_light.md",  icon: briefcase, sidebaricon: briefcase}
   - {title: "Elvee Pulse", file: "elvee_pulse.md",  icon: briefcase, sidebaricon: briefcase} 
   - {title: "Elvee Education", file: "elvee_education.md",  icon: briefcase, sidebaricon: briefcase} 
