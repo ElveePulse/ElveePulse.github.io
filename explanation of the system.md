@@ -14,4 +14,6 @@ Overview
 <img style="float: left;" src="/photos/LV-IMG-010 Elvee Pulse - Diagrama de blocos.png">
 <br/><br/>
 
+---
+
 Schematics
