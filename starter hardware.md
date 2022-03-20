@@ -18,6 +18,7 @@ KIT A: EVP-MCU (P/N 20-0200)
 
 <img style="float: left;" src="/photos/LV-IMG-029-v2 20-0200 kit A parts.png">
 <br/><br/>
+
 ---
 
 KIT B: EVP-LOG (P/N 20-1500)
