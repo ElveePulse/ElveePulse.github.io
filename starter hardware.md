@@ -24,7 +24,7 @@ KIT B: EVP-LOG (P/N 20-1500)
 
 ---
 
-<img style="float: left;" src="/photos/LV-IMG-030 20-1500 kit B parts.png">
+<img style="float: left;" src="/photos/LV-IMG-030 20-1500 kit B parts.jpg">
 <br/><br/>
 
 ---
@@ -33,7 +33,7 @@ KIT C: EVP-MOBO + HAP + LED + PB + BATT + CHRG (P/N 20-0900)
 
 ---
 
-<img style="float: left;" src="/photos/LV-IMG-031 20-0900 kit C parts.png">
+<img style="float: left;" src="/photos/LV-IMG-031 20-0900 kit C parts.jpg">
 <br/><br/>
 
 ---
