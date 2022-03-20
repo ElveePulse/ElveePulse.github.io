@@ -6,6 +6,8 @@ title: "Starter hardware"
 <img style="float: left;" src="/photos/LV-IMG-016 20-0000 Elvee Pulse v5 - Caracteristicas.png">
 <br/><br/>
 
+---
+
 <h1>Kits</h1>
 
 KIT A: EVP-MCU (P/N 20-0200)
@@ -25,5 +27,5 @@ KIT C: EVP-MOBO + HAP + LED + PB + BATT + CHRG (P/N 20-0900)
 
 KIT D: EVP-CASE (P/N 20-0100)
 
-<img style="float: left;" src="/photos/LV-IMG-031 20-0900 kit D parts.png">
+<img style="float: left;" src="/photos/LV-IMG-032-v1 20-0100 kit D parts.png">
 <br/><br/>
