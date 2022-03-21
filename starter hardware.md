@@ -7,7 +7,6 @@ title: "Starter hardware"
     <img style="float: left;" src="/photos/LV-IMG-016 20-0000 Elvee Pulse v5 - Caracteristicas.png">
     <br/><br/>
  </center>
-</div>
     <h1>Kits</h1>
     <div>
         <p>KIT A: EVP-MCU (P/N 20-0200)</p>
@@ -23,3 +22,4 @@ title: "Starter hardware"
         <img style="float: left;" src="/photos/LV-IMG-032-v1 20-0100 kit D parts.png" height = 240px width = 240px>
         <br/><br/>
     </div>
+</div>
