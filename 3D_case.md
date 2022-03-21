@@ -15,6 +15,6 @@ title: "3D Case"
 <div>
 <h1>Case</h1>
 
-<img style="float: left;" src="/photos/LV-IMG-074 EVP-CASE-BASE.png">
+<img style="float: left;" src="/photos/LV-IMG-073 DIY case cover.png">
 <br/><br/>
 </div>
