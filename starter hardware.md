@@ -10,7 +10,7 @@ title: "Starter hardware"
 
 Kits
 
-------
+---
 
 KIT A: EVP-MCU (P/N 20-0200)
 
