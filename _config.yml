@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Starter hardware",file: "starter hardware.md",  icon: briefcase, sidebaricon: briefcase}
   - {title: "Make Yourself",file: "make yourself.md",  icon: briefcase, sidebaricon: briefcase}
   - {title: "Tutorials",file: "tutorials.html",  icon: briefcase, sidebaricon: briefcase}
-  - {title: "Elvee Light", file: "elvee_light.md",  icon: briefcase, sidebaricon: briefcase}
+  - {title: "Elvee pulse", file: "elvee_pulse",  icon: briefcase, sidebaricon: briefcase}
   - {title: "3D case", file: "3D_case.md",  icon: briefcase, sidebaricon: briefcase} 
   - {title: "Printed Board", file: "printed_board.md",  icon: briefcase, sidebaricon: briefcase} 
 
