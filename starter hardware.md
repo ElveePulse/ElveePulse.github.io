@@ -8,7 +8,7 @@ title: "Starter hardware"
 
 ------
 
-<h1>Kits</h1>
+Kits
 
 ------
 
