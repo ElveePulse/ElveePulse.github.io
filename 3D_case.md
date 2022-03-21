@@ -8,7 +8,7 @@ title: "3D Case"
 <img style="float: left;" src="/photos/EVP-3D 3.png" height = 350px>
 <br/><br/>
 
-<img style="float: left;" src="/photos/EVP-3D 4.png"height = 350px>
+<img style="float: left;" src="/photos/EVP-3D 4.png" height = 350px>
 <br/><br/>
 </div>
 
