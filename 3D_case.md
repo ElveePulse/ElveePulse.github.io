@@ -3,7 +3,7 @@ layout: page
 title: "3D Case"
 ---
 <div>
-<h1>Base Impressora 3D</h1>
+<p>Base Impressora 3D</p>
 
 <img style="float: left;" src="/photos/EVP-3D 3.png" height = 350px>
 <br/><br/>
@@ -13,7 +13,7 @@ title: "3D Case"
 </div>
 
 <div>
-<h1>Case</h1>
+<P>Case</p>
 
 <img style="float: left;" src="/photos/LV-IMG-073 DIY case cover.png" height = 350px>
 <br/><br/>
