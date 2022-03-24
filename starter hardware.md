@@ -4,10 +4,10 @@ title: "Starter hardware"
 ---
 
 <div>
-<center>
-<p><img style="float: left;" src="/photos/LV-IMG-016 20-0000 Elvee Pulse v5 - Caracteristicas.png"></p>
+
+<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-016 20-0000 Elvee Pulse v5 - Caracteristicas.png"></p>
 <br/><br/>
-</center>
+
 </div>
 
 ----
