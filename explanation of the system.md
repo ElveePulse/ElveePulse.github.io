@@ -8,10 +8,10 @@ This document is part of a PhD dissertation in Electrical Engineering at UDESC. 
 
 <h1>Overview</h1>
 
-<img style="float: left;" src="/photos/LV-IMG-016 20-0000 Elvee Pulse v5 - Caracteristicas.png">
+<img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-016 20-0000 Elvee Pulse v5 - Caracteristicas.png">
 <br/><br/>
 
-<img style="float: left;" src="/photos/LV-IMG-010 Elvee Pulse - Diagrama de blocos.png">
+<img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-010 Elvee Pulse - Diagrama de blocos.png">
 <br/><br/>
 
 ---
