@@ -5,8 +5,6 @@ title: "Starter hardware"
 <style>
     #conteudo {
     margin-right: 500px;
-    border: 1px solid red;
-    background-color: aqua;
 }
 </style>
 
