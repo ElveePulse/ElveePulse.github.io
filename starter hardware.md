@@ -14,12 +14,12 @@ title: "Starter hardware"
 
 
 ----
-<div id="conteudo">
+
 <h1>Kits</h1>
 
 Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY some other components, in order to get these KITS:
 
-
+<div id="conteudo">
 <p>KIT A: EVP-MCU (P/N 20-0200)</p>
 
 <p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-029-v2 20-0200 kit A parts.png" height = 240px width = 240px></p>
