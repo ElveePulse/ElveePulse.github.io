@@ -16,7 +16,7 @@ title: "Starter hardware"
 
 ----
 <div id="conteudo">
-<h1>Kits</h1>
+<h1>Kiteees</h1>
 
 ---
 <p>KIT A: EVP-MCU (P/N 20-0200)</p>
