@@ -56,7 +56,7 @@ Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY so
 
 
 <p>KIT G: EVP-BLISTER (P/N 20-1600)</p>
-<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-035 20-1600 kit G parts.png" height = 240px width = 240px></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-035 20-1600 kit G parts.jpg" height = 240px width = 240px></p>
 <br/><br/>
 </div>
 
