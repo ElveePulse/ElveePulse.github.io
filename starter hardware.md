@@ -2,8 +2,12 @@
 layout: page
 title: "Starter hardware"
 ---
-
-
+<style>
+    #conteudo {
+    margin-right: 500px;
+    border: 1px solid red;
+}
+</style>
 
 <p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-016 20-0000 Elvee Pulse v5 - Caracteristicas.png"></p>
 <br/><br/>
@@ -11,7 +15,7 @@ title: "Starter hardware"
 
 
 ----
-
+<div id="conteudo">
 <h1>Kits</h1>
 
 ---
@@ -39,3 +43,4 @@ title: "Starter hardware"
 <p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-032-v1 20-0100 kit D parts.png" height = 240px width = 240px></p>
 <br/><br/>
 
+</div>
