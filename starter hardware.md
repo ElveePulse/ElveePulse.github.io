@@ -15,7 +15,7 @@ title: "Starter hardware"
 
 ----
 <div id="conteudo">
-<h1>Kiteees</h1>
+<h1>Kits</h1>
 
 Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY some other components, in order to get these KITS:
 
