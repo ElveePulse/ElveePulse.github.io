@@ -23,7 +23,7 @@ title: "Starter hardware"
 <h1>KIT B: EVP-LOG (P/N 20-1500)</h1>
 <img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-030 20-1500 kit B parts.jpg" height = 240px width = 240px>
 <br/><br/>
-aaaaa 
+ 
 
 ---
 <h1>KIT C: EVP-MOBO + HAP + LED + PB + BATT + CHRG (P/N 20-0900)</h1>
