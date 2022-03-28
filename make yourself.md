@@ -6,6 +6,7 @@ title: "Make Yourself"
 <style>
     #conteudo {
     margin-right: 1000px;
+    font size="24"
 }
 </style>
 
@@ -28,6 +29,11 @@ title: "Make Yourself"
 <p><img style="float: left;" src="/photos/LV-IMG-036 20-0200 Kit A parts-assembled.png"></p>
 <br/><br/>
 <div id="conteudo">
+1
+<p><img style="float: left;" src="/photos/LV-IMG-117 EVP-MCU assembly parts Step1.png"></p>
+<br/><br/>
+
+2
 <p><img style="float: left;" src="/photos/LV-IMG-117 EVP-MCU assembly parts Step1.png"></p>
 <br/><br/>
 </div>
