@@ -25,7 +25,7 @@ title: "Make Yourself"
 
 
 <h1>kit A</h1>
-<p><img style="float: left;" src="/photos/LV-IMG-036 20-0200 Kit A parts-assembled.png" height = 800px></p>
+<p><img style="float: left;" src="/photos/LV-IMG-036 20-0200 Kit A parts-assembled.png"></p>
 <br/><br/>
 <div id="conteudo">
 <p><img style="float: left;" src="/photos/LV-IMG-117 EVP-MCU assembly parts Step1.png"></p>
