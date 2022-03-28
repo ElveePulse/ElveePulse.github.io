@@ -6,7 +6,7 @@ title: "Make Yourself"
 <style>
     #conteudo {
     margin-right: 1000px;
-    font size="24"
+    font size="50"
 }
 </style>
 
