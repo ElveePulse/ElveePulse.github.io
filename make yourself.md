@@ -5,7 +5,7 @@ title: "Make Yourself"
 
 <style>
     #conteudo {
-    margin-right: 500px;
+    margin-right: 1000px;
 }
 </style>
 
@@ -19,3 +19,15 @@ title: "Make Yourself"
 
 <p><img style="float: left; margin-right: 1000px;" src="/photos/LV-IMG-028-v1 Resources.png"></p>
 <br/><br/>
+
+----
+<h1>Kits assembling</h1>
+
+
+<h1>kit A</h1>
+<p><img style="float: left;" src="/photos/LV-IMG-036 20-0200 Kit A parts-assembled" height = 800px></p>
+<br/><br/>
+<div id="conteudo">
+<p><img style="float: left;" src="/photos/LV-IMG-117 EVP-MCU assembly parts Step1.png"></p>
+<br/><br/>
+</div>
