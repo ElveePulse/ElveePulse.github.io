@@ -29,7 +29,7 @@ title: "Make Yourself"
 <br/><br/>
 <div id="conteudo">
 
----
+
 <p><font size="7" face="Verdana" style="float:">
 1 
 </font></p>
@@ -37,7 +37,7 @@ title: "Make Yourself"
 <p><img style="float: left;" src="/photos/LV-IMG-117 EVP-MCU assembly parts Step1.png"></p>
 <br/><br/>
 
----
+
 <p><font size="7" face="Verdana" style="float:">
 2
 </font></p>
@@ -51,7 +51,7 @@ title: "Make Yourself"
 <br/><br/>
 <div id="conteudo">
 
----
+
 <p><font size="7" face="Verdana" style="float:">
 1 
 </font></p>
@@ -59,7 +59,7 @@ title: "Make Yourself"
 <p><img style="float: left;" src="/photos/LV-IMG-115 EVP-LOG assembly parts.png"></p>
 <br/><br/>
 
----
+
 <p><font size="7" face="Verdana" style="float:">
 2
 </font></p>
