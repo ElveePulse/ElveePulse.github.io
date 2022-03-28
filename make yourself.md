@@ -45,6 +45,7 @@ title: "Make Yourself"
 <br/><br/>
 </div>
 
+----
 <h1>kit B</h1>
 <p><img style="float: left;" src="/photos/LV-IMG-037 20-1500 Kit B parts-assembled.png"></p>
 <br/><br/>
