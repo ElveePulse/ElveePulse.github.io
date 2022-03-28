@@ -30,7 +30,7 @@ title: "Make Yourself"
 <div id="conteudo">
 
 <p><font size="7" face="Verdana">
-1
+1 caraca
 </font></p>
 
 <p><img style="float: left;" src="/photos/LV-IMG-117 EVP-MCU assembly parts Step1.png"></p>
