@@ -25,6 +25,8 @@ Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY so
 <form action="https://elveepulse.github.io/make%20yourself/">
 <button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;" >KIT A</button>
 </form>
+
+
 <p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-029-v2 20-0200 kit A parts.png" height = 240px width = 240px></p>
 <br/><br/>
 
