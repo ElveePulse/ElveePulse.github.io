@@ -25,6 +25,7 @@ title: "Make Yourself"
 
 
 <h1>kit A</h1>
+
 <p><img style="float: left;" src="/photos/LV-IMG-036 20-0200 Kit A parts-assembled.png"></p>
 <br/><br/>
 <div id="conteudo">
@@ -47,7 +48,8 @@ title: "Make Yourself"
 
 ----
 <h1>kit B</h1>
-<p><img style="float: left;" src="/photos/LV-IMG-037 20-1500 Kit B parts-assembled.png"></p>
+
+<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-037 20-1500 Kit B parts-assembled.png"></p>
 <br/><br/>
 <div id="conteudo">
 
