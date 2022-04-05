@@ -21,7 +21,7 @@ Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY so
 
 <div id="conteudo">
 <p>KIT A: EVP-MCU (P/N 20-0200)</p>
-
+.....
 <form action="https://www.youtube.com/">
 <button name="button">KIT A</button>
 </form>
