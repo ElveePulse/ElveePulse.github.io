@@ -118,7 +118,7 @@ title: "Make Yourself"
 ----
 <h1>kit E</h1>
 
-<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-037 20-1500 Kit B parts-assembled.png"></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-040 20-0300 Kit E parts-assembled.png"></p>
 <br/><br/>
 <div id="conteudo">
 
@@ -141,7 +141,7 @@ title: "Make Yourself"
 ----
 <h1>kit F</h1>
 
-<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-037 20-1500 Kit B parts-assembled.png"></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-041 20-0600 Kit F parts-assembled.png"></p>
 <br/><br/>
 <div id="conteudo">
 
@@ -164,7 +164,7 @@ title: "Make Yourself"
 ----
 <h1>kit G</h1>
 
-<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-037 20-1500 Kit B parts-assembled.png"></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-042 20-1600 Kit G assembled.png"></p>
 <br/><br/>
 <div id="conteudo">
 
