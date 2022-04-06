@@ -22,7 +22,7 @@ Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY so
 <div id="conteudo">
 <p>KIT A: EVP-MCU (P/N 20-0200)</p>
 
-<form action="https://elveepulse.github.io/make%20yourself/">
+<form action="https://elveepulse.github.io/make%20yourself/?button=#:~:text=Kits%20assembling-,kit%20A,-1">
 <button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;" >KIT A</button>
 </form>
 
