@@ -68,3 +68,118 @@ title: "Make Yourself"
 <p><img style="float: left;" src="/photos/LV-IMG-115 EVP-LOG assembly parts.png"></p>
 <br/><br/>
 </div>
+
+----
+<h1>kit C</h1>
+
+<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-038 20-0900 Kit C parts-assembled.png"></p>
+<br/><br/>
+<div id="conteudo">
+
+
+<p><font size="7" face="Verdana" style="float:">
+1 
+</font></p>
+
+<p><img style="float: left;" src="/photos/LV-IMG-115 EVP-LOG assembly parts.png"></p>
+<br/><br/>
+
+
+<p><font size="7" face="Verdana" style="float:">
+2
+</font></p>
+<p><img style="float: left;" src="/photos/LV-IMG-115 EVP-LOG assembly parts.png"></p>
+<br/><br/>
+</div>
+
+----
+<h1>kit D</h1>
+
+<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-039 20-0100 Kit D parts-assembled.png"></p>
+<br/><br/>
+<div id="conteudo">
+
+
+<p><font size="7" face="Verdana" style="float:">
+1 
+</font></p>
+
+<p><img style="float: left;" src="/photos/LV-IMG-115 EVP-LOG assembly parts.png"></p>
+<br/><br/>
+
+
+<p><font size="7" face="Verdana" style="float:">
+2
+</font></p>
+<p><img style="float: left;" src="/photos/LV-IMG-115 EVP-LOG assembly parts.png"></p>
+<br/><br/>
+</div>
+
+----
+<h1>kit E</h1>
+
+<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-037 20-1500 Kit B parts-assembled.png"></p>
+<br/><br/>
+<div id="conteudo">
+
+
+<p><font size="7" face="Verdana" style="float:">
+1 
+</font></p>
+
+<p><img style="float: left;" src="/photos/LV-IMG-115 EVP-LOG assembly parts.png"></p>
+<br/><br/>
+
+
+<p><font size="7" face="Verdana" style="float:">
+2
+</font></p>
+<p><img style="float: left;" src="/photos/LV-IMG-115 EVP-LOG assembly parts.png"></p>
+<br/><br/>
+</div>
+
+----
+<h1>kit F</h1>
+
+<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-037 20-1500 Kit B parts-assembled.png"></p>
+<br/><br/>
+<div id="conteudo">
+
+
+<p><font size="7" face="Verdana" style="float:">
+1 
+</font></p>
+
+<p><img style="float: left;" src="/photos/LV-IMG-115 EVP-LOG assembly parts.png"></p>
+<br/><br/>
+
+
+<p><font size="7" face="Verdana" style="float:">
+2
+</font></p>
+<p><img style="float: left;" src="/photos/LV-IMG-115 EVP-LOG assembly parts.png"></p>
+<br/><br/>
+</div>
+
+----
+<h1>kit G</h1>
+
+<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-037 20-1500 Kit B parts-assembled.png"></p>
+<br/><br/>
+<div id="conteudo">
+
+
+<p><font size="7" face="Verdana" style="float:">
+1 
+</font></p>
+
+<p><img style="float: left;" src="/photos/LV-IMG-115 EVP-LOG assembly parts.png"></p>
+<br/><br/>
+
+
+<p><font size="7" face="Verdana" style="float:">
+2
+</font></p>
+<p><img style="float: left;" src="/photos/LV-IMG-115 EVP-LOG assembly parts.png"></p>
+<br/><br/>
+</div>
