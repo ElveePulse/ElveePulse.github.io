@@ -56,8 +56,10 @@ title: "Make Yourself"
 
 
 <p><font size="7" face="Verdana" style="float:">
-4
+3
 </font></p>
+<p><img style="float: left;" src="/photos/alicate.png"></p>
+<br/><br/>
 <p><img style="float: left;" src="/photos/KIT A/3.png"></p>
 <br/><br/>
 
