@@ -48,7 +48,7 @@ title: "Make Yourself"
 </div>
 
 <div id="conteudo">
-<h1>kit Bb</h1>
+<h1>kit B</h1>
 
 <p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-037 20-1500 Kit B parts-assembled.png"></p>
 <br/><br/>
