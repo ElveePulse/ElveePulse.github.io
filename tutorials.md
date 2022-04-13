@@ -22,13 +22,16 @@ title: "Tutorial"
      <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
         <div class="carousel-inner">
           <div class="carousel-item active">
-          <img  src="/photos/logo1.png" class="d-block w-50" alt="logo1"height = 600px>
+          <p><img style="float: left; margin-right: 500px;" src="/photos/logo1.png" height = 240px width = 240px></p>
+          <br/><br/>
           </div>
           <div class="carousel-item">
-          <img  src="/photos/logo2.png" class="d-block w-50" alt="logo2"height = 600px>
+          <p><img style="float: left; margin-right: 500px;" src="/photos/logo2.png" height = 240px width = 240px></p>
+          <br/><br/>
           </div>
           <div class="carousel-item">
-          <img  src="/photos/logo3.png" class="d-block w-50" alt="logo3"height = 600px>
+          <p><img style="float: left; margin-right: 500px;" src="/photos/logo3.png" height = 240px width = 240px></p>
+          <br/><br/>
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="prev">
