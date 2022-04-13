@@ -33,7 +33,7 @@ Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY so
 
 <p>KIT B: EVP-LOG (P/N 20-1500)</p>
 
-<form action="https://elveepulse.github.io/make%20yourself/?button=#:~:text=Kits%20assembling-,kit%20A,-1">
+<form action="https://elveepulse.github.io/make%20yourself/?button=#:~:text=2-,kit%20B,-1">
 <button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;" >KIT B</button>
 </form>
 
@@ -44,7 +44,7 @@ Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY so
 
 <p>KIT C: EVP-MOBO + HAP + LED + PB + BATT + CHRG (P/N 20-0900)</p>
 
-<form action="https://elveepulse.github.io/make%20yourself/?button=#:~:text=Kits%20assembling-,kit%20A,-1">
+<form action="https://elveepulse.github.io/make%20yourself/?button=#:~:text=2-,kit%20C,-1">
 <button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;" >KIT C</button>
 </form>
 
@@ -54,7 +54,7 @@ Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY so
 
 <p>KIT D: EVP-CASE (P/N 20-0100)</p>
 
-<form action="https://elveepulse.github.io/make%20yourself/?button=#:~:text=Kits%20assembling-,kit%20A,-1">
+<form action="https://elveepulse.github.io/make%20yourself/?button=#:~:text=2-,kit%20D,-1">
 <button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;" >KIT D</button>
 </form>
 
@@ -63,7 +63,7 @@ Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY so
 
 <p>KIT E: EVP-OLED (P/N 20-0300)</p>
 
-<form action="https://elveepulse.github.io/make%20yourself/?button=#:~:text=Kits%20assembling-,kit%20A,-1">
+<form action="https://elveepulse.github.io/make%20yourself/?button=#:~:text=2-,kit%20E,-1">
 <button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;" >KIT E</button>
 </form>
 
@@ -73,7 +73,7 @@ Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY so
 
 <p>KIT F: EVP-SENS (P/N 20-0600)</p>
 
-<form action="https://elveepulse.github.io/make%20yourself/?button=#:~:text=Kits%20assembling-,kit%20A,-1">
+<form action="https://elveepulse.github.io/make%20yourself/?button=#:~:text=2-,kit%20F,-1">
 <button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;" >KIT F</button>
 </form>
 
@@ -83,7 +83,7 @@ Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY so
 
 <p>KIT G: EVP-BLISTER (P/N 20-1600)</p>
 
-<form action="https://elveepulse.github.io/make%20yourself/?button=#:~:text=Kits%20assembling-,kit%20A,-1">
+<form action="https://elveepulse.github.io/make%20yourself/?button=#:~:text=2-,kit%20G,-1">
 <button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;" >KIT G</button>
 </form>
 
