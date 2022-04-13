@@ -52,9 +52,6 @@ title: "Make Yourself"
 </font></p>
 <p><img style="float: left;" src="/photos/KIT A/2.png"></p>
 <br/><br/>
-</div>
-<div id="conteudo">
-<h1>kit B</h1>
 
 <p><font size="7" face="Verdana" style="float:">
 4
@@ -68,7 +65,10 @@ title: "Make Yourself"
 </font></p>
 <p><img style="float: left;" src="/photos/KIT A/4.png"></p>
 <br/><br/>
+
 </div>
+<div id="conteudo">
+<h1>kit B</h1>
 
 <p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-037 20-1500 Kit B parts-assembled.png"></p>
 <br/><br/>
