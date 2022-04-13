@@ -39,26 +39,28 @@ title: "Make Yourself"
 <p><img style="float: left;" src="/photos/LV-IMG-117 EVP-MCU assembly parts Step1.png"></p>
 <br/><br/>
 
+<p><img style="float: left;" src="/photos/solda.png"></p>
+<br/><br/>
+
+<p><img style="float: left;" src="/photos/KIT A/1.png"></p>
+<br/><br/>
+
 
 <p><font size="7" face="Verdana" style="float:">
 2
 </font></p>
-<p><img style="float: left;" src="/photos/KIT A/1.png"></p>
+<p><img style="float: left;" src="/photos/estilete.png"></p>
 <br/><br/>
-</div>
-
-<p><font size="7" face="Verdana" style="float:">
-3
-</font></p>
 <p><img style="float: left;" src="/photos/KIT A/2.png"></p>
 <br/><br/>
+
 
 <p><font size="7" face="Verdana" style="float:">
 4
 </font></p>
 <p><img style="float: left;" src="/photos/KIT A/3.png"></p>
 <br/><br/>
-</div>
+
 
 <p><font size="7" face="Verdana" style="float:">
 5
