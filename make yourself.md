@@ -69,6 +69,7 @@ title: "Make Yourself"
 <p><img style="float: left;" src="/photos/KIT A/4.png"></p>
 <br/><br/>
 
+----
 <p><img style="float: left;" src="/photos/down.png"></p>
 <br/><br/>
 
