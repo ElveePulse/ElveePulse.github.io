@@ -76,6 +76,13 @@ title: "Make Yourself"
 <button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;" >CH340 Driver </button>
 </form>
 
+<p><img style="float: left;" src="/photos/down.png"></p>
+<br/><br/>
+
+<form action="https://www.arduino.cc/en/software">
+<button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;" > Arduino IDE </button>
+</form>
+
 
 </div>
 <div id="conteudo">
