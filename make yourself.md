@@ -33,7 +33,7 @@ title: "Make Yourself"
 
 
 <p><font size="7" face="Verdana" style="float:">
-1 <p><img style="float: left;" src="/photos/solda.png"></p>
+1 <p><img style="float: left; margin-right: 1000px;" src="/photos/solda.png"></p>
 <br/><br/>
 </font></p>
 
@@ -45,9 +45,8 @@ title: "Make Yourself"
 
 
 <p><font size="7" face="Verdana" style="float:">
-2 <p><img style="float: left;" src="/photos/estilete.png"></p>
+2 <p><img style="float: left; margin-right: 1000px;" src="/photos/estilete.png"></p>
 <br/><br/>
-
 </font></p>
 
 <p><img style="float: left;" src="/photos/KIT A/2.png"></p>
