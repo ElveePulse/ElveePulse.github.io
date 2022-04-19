@@ -45,16 +45,17 @@ title: "Make Yourself"
 <p><img style="float: left;" src="/photos/KIT A/1.png"></p>
 <br/><br/>
 
----
+
 <p><font size="7" face="Verdana" style="float:">
-2
-</font></p>
-<p><img style="float: left;" src="/photos/estilete.png"></p>
+2 <p><img style="float: left;" src="/photos/estilete.png"></p>
 <br/><br/>
+
+</font></p>
+
 <p><img style="float: left;" src="/photos/KIT A/2.png"></p>
 <br/><br/>
 
----
+
 <p><font size="7" face="Verdana" style="float:">
 3
 </font></p>
