@@ -35,7 +35,7 @@ title: "Make Yourself"
 
 </font></p>
 
-<p><img style="float: left; margin-right: 500px;"" src="/photos/solda.png"></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/solda.png"></p>
 <br/><br/>
 
 ---
