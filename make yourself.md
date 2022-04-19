@@ -3,11 +3,7 @@ layout: page
 title: "Make Yourself"
 ---
 
-<style>
-    #conteudo {
-    margin-right: 500px;
-}
-</style>
+
 
 <h1>Tools</h1>
 
@@ -23,7 +19,7 @@ title: "Make Yourself"
 ----
 <h1>Kits assembling</h1>
 
-<div id="conteudo">
+
 
 <p><font size="7" face="Verdana" style="float:">
 <h1>kit A</h1>
@@ -34,43 +30,44 @@ title: "Make Yourself"
 
 ----
 <p><font size="7" face="Verdana" style="float:">
-1 <p><img style="float: left; margin-right: 1000px;" src="/photos/solda.png"></p>
+1 <p><img style="float: left; margin-right: 500px;"" src="/photos/solda.png"></p>
 <br/><br/>
 </font></p>
-
-<p><img style="float: left;" src="/photos/LV-IMG-117 EVP-MCU assembly parts Step1.png"></p>
+---
+<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-117 EVP-MCU assembly parts Step1.png"></p>
 <br/><br/>
 
-<p><img style="float: left;" src="/photos/KIT A/1.png"></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/1.png"></p>
 <br/><br/>
 
 ----
 <p><font size="7" face="Verdana" style="float:">
-2 <p><img style="float: left; margin-right: 1000px;" src="/photos/estilete.png"></p>
+2 <p><img style="float: left; margin-right: 500px;" src="/photos/estilete.png"></p>
 <br/><br/>
 </font></p>
 
-<p><img style="float: left;" src="/photos/KIT A/2.png"></p>
+---
+<p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/2.png"></p>
 <br/><br/>
 
-
+----
 <p><font size="7" face="Verdana" style="float:">
 3
 </font></p>
-<p><img style="float: left;" src="/photos/alicate.png"></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/alicate.png"></p>
 <br/><br/>
-<p><img style="float: left;" src="/photos/KIT A/3.png"></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/3.png"></p>
 <br/><br/>
 
-
+----
 <p><font size="7" face="Verdana" style="float:">
 4
 </font></p>
-<p><img style="float: left;" src="/photos/KIT A/4.png"></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/4.png"></p>
 <br/><br/>
-</div>
 
-----
+
+
 <p><img style="float: left; margin-right: 500px;" src="/photos/down.png"></p>
 <br/><br/>
 
