@@ -68,9 +68,10 @@ title: "Make Yourself"
 </font></p>
 <p><img style="float: left;" src="/photos/KIT A/4.png"></p>
 <br/><br/>
+</div>
 
 ----
-<p><img style="float: left;" src="/photos/down.png"></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/down.png"></p>
 <br/><br/>
 
 <form action="https://www.wemos.cc/en/latest/ch340_driver.html">
@@ -78,7 +79,7 @@ title: "Make Yourself"
 </form>
 
 ----
-<p><img style="float: left;" src="/photos/down.png"></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/down.png"></p>
 <br/><br/>
 
 <form action="https://www.arduino.cc/en/software">
@@ -86,7 +87,7 @@ title: "Make Yourself"
 </form>
 
 
-</div>
+
 <div id="conteudo">
 <h1>kit B</h1>
 
