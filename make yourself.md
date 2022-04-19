@@ -79,7 +79,7 @@ title: "Make Yourself"
 
 ---
 <form action="https://www.wemos.cc/en/latest/ch340_driver.html">
-<button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px; margin-right: 1000px;" >CH340 Driver </button>
+<button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px; float: right;" >CH340 Driver </button>
 </form>
 
 ----
@@ -88,6 +88,6 @@ title: "Make Yourself"
 
 ---
 <form action="https://www.arduino.cc/en/software">
-<button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px; margin-right: 1000px;" > Arduino IDE </button>
+<button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px; float: right" > Arduino IDE </button>
 </form>
 
