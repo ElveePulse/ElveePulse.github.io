@@ -17,8 +17,9 @@ title: "Make Yourself"
 <br/><br/>
 
 ----
+<p><font size="11" face="Verdana" style="float:">
 <h1>Kits assembling</h1>
-
+</font></p>
 
 
 <p><font size="7" face="Verdana" style="float:">
