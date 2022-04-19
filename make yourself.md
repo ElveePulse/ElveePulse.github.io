@@ -24,7 +24,10 @@ title: "Make Yourself"
 <h1>Kits assembling</h1>
 
 <div id="conteudo">
+
+<p><font size="7" face="Verdana" style="float:">
 <h1>kit A</h1>
+</font></p>
 
 <p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-036 20-0200 Kit A parts-assembled.png"></p>
 <br/><br/>
