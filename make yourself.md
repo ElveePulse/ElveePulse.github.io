@@ -31,9 +31,12 @@ title: "Make Yourself"
 
 ----
 <p><font size="7" face="Verdana" style="float:">
-1 <p><img style="float: left; margin-right: 2000px;"" src="/photos/solda.png"></p>
-<br/><br/>
+1 
+
 </font></p>
+
+<p><img style="float: left; margin-right: 2000px;"" src="/photos/solda.png"></p>
+<br/><br/>
 
 ---
 <p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-117 EVP-MCU assembly parts Step1.png"></p>
@@ -44,9 +47,10 @@ title: "Make Yourself"
 
 ----
 <p><font size="7" face="Verdana" style="float:">
-2 <p><img style="float: left; margin-right: 2000px;" src="/photos/estilete.png"></p>
-<br/><br/>
+2 
 </font></p>
+<p><img style="float: left; margin-right: 2000px;" src="/photos/estilete.png"></p>
+<br/><br/>
 
 ---
 <p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/2.png"></p>
