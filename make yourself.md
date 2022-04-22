@@ -98,7 +98,7 @@ title: "Make Yourself"
 <br/><br/>
 
 ----
-<p><img style="float: left; margin-right: 500px;" src="/photos/down.png" height = 150px width = 150px></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/engrenagem.png" height = 150px width = 150px></p>
 <br/><br/>
 
 
