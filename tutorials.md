@@ -14,7 +14,7 @@ title: "Tutorial"
     height: 500px;
    }
 </style>
-<body >
+
   <div id="div"> 
     <button name="button">Click me</button> 
     <center>
@@ -45,7 +45,7 @@ title: "Tutorial"
       </div>
     </center>  
   </div>
-</body>
-</html>
+
+
 
 
