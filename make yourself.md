@@ -57,7 +57,7 @@ title: "Make Yourself"
 <p><font size="5" face="Verdana" style="float: left; margin-right: 500px;">
 3
 </font></p>
-<p><img style="float: left; margin-right: 500px;" src="/photos/alicate.png"></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/alicate.png" height = 50px width = 50px></p>
 <br/><br/>
 <p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/3.png"></p>
 <br/><br/>
@@ -96,7 +96,7 @@ title: "Make Yourself"
 <br/><br/>
 
 ----
-<p><img style="float: left; margin-right: 500px;" src="/photos/engrenagem.png" height = 50px width = 50px></p>
+<p><img style="ts margin-right: 500px;" src="/photos/engrenagem.png" height = 50px width = 50px></p>
 <br/><br/>
 
 
