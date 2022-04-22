@@ -30,9 +30,9 @@ title: "Make Yourself"
 <br/><br/>
 
 
-<p><font size="5" face="Verdana" style="float: left; margin-right: 500px;">
+<h1><font size="5" face="Verdana" style="float: left; margin-right: 500px;">
 1 
-</font></p>
+</font></h1>
 <p><img style="float: left; margin-right: 500px;" src="/photos/solda.png" height = 100px width = 100px></p>
 <br/><br/>
 
@@ -43,9 +43,9 @@ title: "Make Yourself"
 <br/><br/>
 
 ----
-<p><font size="5" face="Verdana" style="float: left; margin-right: 500px;">
+<h1><font size="5" face="Verdana" style="float: left; margin-right: 500px;">
 2 
-</font></p>
+</font></h1>
 <p><img style="float: left; margin-right: 500px;" src="/photos/estilete.png" height = 100px width = 100px></p>
 <br/><br/>
 
