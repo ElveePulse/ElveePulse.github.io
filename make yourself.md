@@ -33,10 +33,8 @@ title: "Make Yourself"
 <p><font size="5" face="Verdana" style="float: left; margin-right: 500px;">
 1 
 </font></p>
-
 <p><img style="float: left; margin-right: 500px;" src=/photos/solda.png" height = 150px width = 150px></p>
 <br/><br/>
-
 
 <p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-117 EVP-MCU assembly parts Step1.png"></p>
 <br/><br/>
