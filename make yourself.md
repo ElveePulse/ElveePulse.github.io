@@ -89,7 +89,7 @@ title: "Make Yourself"
 </form>
 
 
-<p><img style="float: right;" src="/photos/USB.png" height = 150px width = 150px></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/USB.png" height = 150px width = 150px></p>
 <br/><br/>
 
 <p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/5.png"></p>
