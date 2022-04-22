@@ -42,7 +42,7 @@ title: "Make Yourself"
 <p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/1.png"></p>
 <br/><br/>
 
-
+----
 <p><font size="5" face="Verdana" style="float: left; margin-right: 500px;">
 2 
 </font></p>
@@ -53,7 +53,7 @@ title: "Make Yourself"
 <p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/2.png"></p>
 <br/><br/>
 
-
+----
 <p><font size="5" face="Verdana" style="float: left; margin-right: 500px;">
 3
 </font></p>
@@ -62,7 +62,7 @@ title: "Make Yourself"
 <p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/3.png"></p>
 <br/><br/>
 
-
+----
 <p><font size="5" face="Verdana" style="float: left; margin-right: 500px;">
 4
 </font></p>
@@ -88,14 +88,14 @@ title: "Make Yourself"
 <button name="button" style="background: #069cc2; border-radius: 4px; padding: 10px; cursor: pointer; color: #fff; border: none; font-size: 10px; margin-right: 600px; float: right;" > Arduino IDE </button>
 </form>
 
-
+----
 <p><img style="float: left; margin-right: 500px;" src="/photos/USB.png" height = 100px width = 100px></p>
 <br/><br/>
 
 <p><img style="float;" src="/photos/KIT A/5.png"></p>
 <br/><br/>
 
-
+----
 <p><img style="ts margin-right: 500px;" src="/photos/engrenagem.png" height = 100px width = 100px></p>
 <br/><br/>
 
