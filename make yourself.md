@@ -33,6 +33,7 @@ title: "Make Yourself"
 <h1><font size="5" face="Verdana" style="float: left; margin-right: 500px;">
 1 
 </font></h1>
+
 <p><img style="float: left; margin-right: 500px;" src="/photos/solda.png" height = 100px width = 100px></p>
 <br/><br/>
 
@@ -46,9 +47,9 @@ title: "Make Yourself"
 <h1><font size="5" face="Verdana" style="float: left; margin-right: 500px;">
 2 
 </font></h1>
+
 <p><img style="float: left; margin-right: 500px;" src="/photos/estilete.png" height = 100px width = 100px></p>
 <br/><br/>
-
 
 <p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/2.png"></p>
 <br/><br/>
@@ -57,6 +58,7 @@ title: "Make Yourself"
 <p><font size="5" face="Verdana" style="float: left; margin-right: 500px;">
 3
 </font></p>
+
 <p><img style="float: left; margin-right: 500px;" src="/photos/alicate.png" height = 100px width = 100px></p>
 <br/><br/>
 <p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/3.png"></p>
@@ -66,23 +68,19 @@ title: "Make Yourself"
 <p><font size="5" face="Verdana" style="float: left; margin-right: 500px;">
 4
 </font></p>
+
 <p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/4.png"></p>
 <br/><br/>
 
-
-
 <p><img style="float: left; margin-right: 500px;" src="/photos/down.png" height = 100px width = 100px></p>
 <br/><br/>
-
 
 <form action="https://www.wemos.cc/en/latest/ch340_driver.html">
 <button name="button" style="background: #069cc2; border-radius: 4px; padding: 10px; cursor: pointer; color: #fff; border: none; font-size: 10px; margin-right: 600px; float: right;" >CH340 Driver </button>
 </form>
 
-
 <p><img style="float: left; margin-right: 500px;" src="/photos/down.png" height = 100px width = 100px></p>
 <br/><br/>
-
 
 <form action="https://www.arduino.cc/en/software">
 <button name="button" style="background: #069cc2; border-radius: 4px; padding: 10px; cursor: pointer; color: #fff; border: none; font-size: 10px; margin-right: 600px; float: right;" > Arduino IDE </button>
@@ -98,7 +96,6 @@ title: "Make Yourself"
 ----
 <p><img style="ts margin-right: 500px;" src="/photos/engrenagem.png" height = 100px width = 100px></p>
 <br/><br/>
-
 
 <form action="https://github.com/esp8266/Arduino#installing-with-boards-manager">
 <button name="button" style="background: #069cc2; border-radius: 4px; padding: 10px; cursor: pointer; color: #fff; border: none; font-size: 10px; margin-right: 600px; float: right;" > Setting up ESP8266 on Arduino IDE </button>
