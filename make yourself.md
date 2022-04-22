@@ -101,5 +101,5 @@ title: "Make Yourself"
 
 
 <form action="https://github.com/esp8266/Arduino#installing-with-boards-manager">
-<button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px; margin-right: 100px; float: right;" > Setting up ESP8266 on Arduino IDE </button>
+<button name="button" style="background: #069cc2; border-radius: 6px; padding: 10px; cursor: pointer; color: #fff; border: none; font-size: 16px; margin-right: 100px; float: right;" > Setting up ESP8266 on Arduino IDE </button>
 </form>
