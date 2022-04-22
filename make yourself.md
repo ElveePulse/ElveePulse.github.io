@@ -90,6 +90,7 @@ title: "Make Yourself"
 <button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px; float: right" > Arduino IDE </button>
 </form>
 
+----
 <p><img style="float: right;" src="/photos/USB.png" height = 150px width = 150px></p>
 <br/><br/>
 
