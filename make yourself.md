@@ -73,7 +73,7 @@ title: "Make Yourself"
 
 
 ----
-<p><img style="float: left; margin-right: 500px;" src="/photos/down.png"></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/down.png" height = 150px width = 150px></p>
 <br/><br/>
 
 
@@ -82,7 +82,7 @@ title: "Make Yourself"
 </form>
 
 ----
-<p><img style="float: left; margin-right: 500px;" src="/photos/down.png"></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/down.png" height = 150px width = 150px></p>
 <br/><br/>
 
 
@@ -95,3 +95,12 @@ title: "Make Yourself"
 
 <p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/5.png"></p>
 <br/><br/>
+
+----
+<p><img style="float: left; margin-right: 500px;" src="/photos/down.png" height = 150px width = 150px></p>
+<br/><br/>
+
+
+<form action="https://github.com/esp8266/Arduino#installing-with-boards-manager">
+<button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px; float: right" > Setting up ESP8266 on Arduino IDE </button>
+</form>
