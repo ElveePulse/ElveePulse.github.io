@@ -34,7 +34,7 @@ title: "Make Yourself"
 1 
 </font></p>
 
-<p><img style="float: left;" src=/photos/solda.png" height = 150px width = 150px></p>
+<p><img style="float: left; margin-right: 500px;" src=/photos/solda.png" height = 150px width = 150px></p>
 <br/><br/>
 
 
@@ -48,7 +48,7 @@ title: "Make Yourself"
 <p><font size="5" face="Verdana" style="float: left; margin-right: 500px;">
 2 
 </font></p>
-<p><img style="float: left;" src="/photos/estilete.png" height = 150px width = 150px></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/estilete.png" height = 150px width = 150px></p>
 <br/><br/>
 
 
