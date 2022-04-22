@@ -70,7 +70,7 @@ title: "Make Yourself"
 <br/><br/>
 
 
-----
+
 <p><img style="float: left; margin-right: 500px;" src="/photos/down.png" height = 100px width = 100px></p>
 <br/><br/>
 
@@ -79,7 +79,7 @@ title: "Make Yourself"
 <button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px; margin-right: 100px; float: right;" >CH340 Driver </button>
 </form>
 
-----
+
 <p><img style="float: left; margin-right: 500px;" src="/photos/down.png" height = 100px width = 100px></p>
 <br/><br/>
 
@@ -95,7 +95,7 @@ title: "Make Yourself"
 <p><img style="float;" src="/photos/KIT A/5.png"></p>
 <br/><br/>
 
-----
+
 <p><img style="ts margin-right: 500px;" src="/photos/engrenagem.png" height = 100px width = 100px></p>
 <br/><br/>
 
