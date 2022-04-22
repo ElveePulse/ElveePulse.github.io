@@ -72,7 +72,7 @@ title: "Make Yourself"
 <br/><br/>
 
 
-----
+
 <p><img style="float: left; margin-right: 500px;" src="/photos/down.png" height = 150px width = 150px></p>
 <br/><br/>
 
@@ -81,7 +81,7 @@ title: "Make Yourself"
 <button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px; float: right;" >CH340 Driver </button>
 </form>
 
-----
+
 <p><img style="float: left; margin-right: 500px;" src="/photos/down.png" height = 150px width = 150px></p>
 <br/><br/>
 
@@ -90,14 +90,14 @@ title: "Make Yourself"
 <button name="button" style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px; float: right" > Arduino IDE </button>
 </form>
 
-----
+
 <p><img style="float: right;" src="/photos/USB.png" height = 150px width = 150px></p>
 <br/><br/>
 
 <p><img style="float: left; margin-right: 500px;" src="/photos/KIT A/5.png"></p>
 <br/><br/>
 
-----
+
 <p><img style="float: left; margin-right: 500px;" src="/photos/engrenagem.png" height = 150px width = 150px></p>
 <br/><br/>
 
