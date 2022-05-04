@@ -8,6 +8,7 @@ title: "Starter hardware"
 }
 </style>
 
+<div id="conteudo">
 <h1>Use modes</h1>
 
 <p>Wristband mode</p>
@@ -15,17 +16,22 @@ title: "Starter hardware"
 <br/><br/>
 
 <p>Bench mode</p>
-<p><img style="float: left; margin-right: 500px;" src="/photos/npulsos.png" height = 240px width = 240px></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/npulso.png" height = 240px width = 240px></p>
 <br/><br/>
+</div>
+
 ----
 
+<div id="conteudo">
 <h1>Battery charging</h1>
 
 
 <p><img style="float: left; margin-right: 500px;" src="/photos/Baterry.png" height = 240px width = 240px></p>
 <br/><br/>
+<div id="conteudo">
 
 ----
+
 <h1>Kits</h1>
 
 Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY some other components, in order to get these KITS:
