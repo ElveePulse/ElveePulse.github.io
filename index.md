@@ -5,8 +5,9 @@ title: "The Elvee Project"
 <img style="float: left;" src="/photos/logo1.png" height = 240px width = 240px>
 <br/><br/>
 
-The Elvee Project is an open source Firmware created by PhD student Lucio Santos, since 2021. [Lúcio Vasconcelos].<br/>
-Elvee Pulse is an open source device developed as an initial project proposal to apply classroom engineering knowledge directly into practical situations, directing students towards a possible course project.
+Projeto de doutorado, de sistema para coleta e análise integrada de dados voluntários e não voluntários de múltiplos sujeitos, em ambientes não controlados (fora de laboratório).
+Desenvolvido com filosofia open source, todo o projeto, exceto os dados de pesquisa e resultados da tese, podem ser aqui acessados livremente, copiados e modificados, com o objetivo do autor de disseminar o conhecimento  sobre uma plataforma de hardware simples, com componentes comerciais, devido a quantidade necessária para os experimentos da tese, somente para prova de conceito do sistema.
+No entanto, o sistema pode ser adaptado em qualquer outra plataforma desejada.
 
 ------
 

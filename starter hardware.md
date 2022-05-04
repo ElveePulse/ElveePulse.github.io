@@ -8,10 +8,15 @@ title: "Starter hardware"
 }
 </style>
 
-<p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-016 20-0000 Elvee Pulse v5 - Caracteristicas.png"></p>
+<h1>Use modes</h1>
+
+<p>Wristband mode</p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/pulso.png" height = 240px width = 240px></p>
 <br/><br/>
 
-
+<p>Bench mode</p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/npulsos.png" height = 240px width = 240px></p>
+<br/><br/>
 
 ----
 
