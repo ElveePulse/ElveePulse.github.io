@@ -30,6 +30,8 @@ title: "Starter hardware"
 <br/><br/>
 <div id="conteudo">
 
+For bench mode it is not necessary to use the battery
+
 ----
 
 <h1>Kits</h1>
