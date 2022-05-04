@@ -28,9 +28,9 @@ title: "Starter hardware"
 
 <p><img style="float: left; margin-right: 500px;" src="/photos/Baterry.png" height = 240px width = 240px></p>
 <br/><br/>
-<div id="conteudo">
 
-For bench mode it is not necessary to use the battery
+ * For bench mode it is not necessary to use the battery
+</div>
 
 ----
 
