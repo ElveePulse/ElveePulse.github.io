@@ -17,9 +17,15 @@ title: "Starter hardware"
 <p>Bench mode</p>
 <p><img style="float: left; margin-right: 500px;" src="/photos/npulsos.png" height = 240px width = 240px></p>
 <br/><br/>
-
 ----
 
+<h1>Battery charging</h1>
+
+
+<p><img style="float: left; margin-right: 500px;" src="/photos/Baterry.png" height = 240px width = 240px></p>
+<br/><br/>
+
+----
 <h1>Kits</h1>
 
 Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY some other components, in order to get these KITS:
@@ -95,5 +101,6 @@ Go to ELVEE PULSE V5 KITS PACKING INSTRUCTION to purchase components, and DIY so
 <p><img style="float: left; margin-right: 500px;" src="/photos/LV-IMG-035 20-1600 kit G parts.jpg" height = 240px width = 240px></p>
 <br/><br/>
 </div>
+
 
 
