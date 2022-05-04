@@ -17,7 +17,7 @@ title: "Starter hardware"
 <br/><br/>
 
 <p>Bench mode</p>
-<p><img style="float: left; margin-right: 500px;" src="/photos/npulso.png" height = 960px></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/npulso.png" height = 2000px></p>
 <br/><br/>
 </div>
 
@@ -27,7 +27,7 @@ title: "Starter hardware"
 <h1>Baterry</h1>
 
 
-<p><img style="float: left; margin-right: 500px;" src="/photos/Baterrytuto.png" width = 1500px> <img style="float: left; margin-right: 500px;" src="/photos/Baterry.png" width = 1500px> </p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/Baterrytuto.png" width = 4000px> <img style="float: left; margin-right: 500px;" src="/photos/Baterry.png" width = 4000px> </p>
 <br/><br/>
 
  * For bench mode it is not necessary to use the battery
