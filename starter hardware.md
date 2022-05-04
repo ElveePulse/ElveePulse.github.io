@@ -2,6 +2,7 @@
 layout: page
 title: "Starter hardware"
 ---
+
 <style>
     #conteudo {
     margin-right: 500px;
@@ -20,7 +21,7 @@ title: "Starter hardware"
 <br/><br/>
 </div>
 
-----
+
 
 <div id="conteudo">
 <h1>Conections</h1>
@@ -32,14 +33,14 @@ title: "Starter hardware"
  * For bench mode it is not necessary to use the battery
 </div>
 
-----
+
 
 <div id="conteudo">
 <h1>Operation</h1>
 
 <iframe width="956" height="538" src="https://www.youtube.com/embed/QN7e8yY5e88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-----
+
 
 <h1>Kits</h1>
 
