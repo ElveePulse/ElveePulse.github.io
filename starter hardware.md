@@ -17,7 +17,7 @@ title: "Starter hardware"
 <br/><br/>
 
 <p>Bench mode</p>
-<p><img style="float: left; margin-right: 500px;" src="/photos/npulso.png" height = 240px width = 240px></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/npulso.png" height = 480px></p>
 <br/><br/>
 </div>
 
