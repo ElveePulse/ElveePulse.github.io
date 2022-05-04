@@ -15,5 +15,3 @@ This document is part of a PhD dissertation in Electrical Engineering at UDESC. 
 <br/><br/>
 
 ---
-
-<h1>Schematics </h1>
