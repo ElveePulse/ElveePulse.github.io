@@ -24,10 +24,10 @@ title: "Starter hardware"
 
 
 <div id="conteudo">
-<h1>Conections</h1>
+<h1>Baterry</h1>
 
 
-<p><img style="float: left; margin-right: 500px;" src="/photos/Baterry.png" width = 1500px> </p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/Baterrytuto.png" width = 1500px><img style="float: left; margin-right: 500px;" src="/photos/Baterry.png" width = 1500px> </p>
 <br/><br/>
 
  * For bench mode it is not necessary to use the battery
