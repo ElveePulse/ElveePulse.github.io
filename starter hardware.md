@@ -16,7 +16,7 @@ title: "Starter hardware"
 <br/><br/>
 
 <p>Bench mode</p>
-<p><img style="float: left; margin-right: 500px;" src="/photos/npulso.png" height = 240px width = 240px></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/npulso.png" height = 240px width = 240px><img style="float: left; margin-right: 500px;" src="/photos/tela arduino.jpg" width = 1500px></p>
 <br/><br/>
 </div>
 
@@ -26,7 +26,7 @@ title: "Starter hardware"
 <h1>Conections</h1>
 
 
-<p><img style="float: left; margin-right: 500px;" src="/photos/Baterry.png" width = 1500px> <img style="float: left; margin-right: 500px;" src="/photos/tela arduino.jpg" width = 1500px></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/Baterry.png" width = 1500px> </p>
 <br/><br/>
 
  * For bench mode it is not necessary to use the battery
