@@ -13,11 +13,11 @@ title: "Starter hardware"
 <h1>Use modes</h1>
 
 <p>Wristband mode</p>
-<p><img style="float: left; margin-right: 500px;" src="/photos/pulso.png" height = 240px width = 240px></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/pulso.png" height = 1000px></p>
 <br/><br/>
 
 <p>Bench mode</p>
-<p><img style="float: left; margin-right: 500px;" src="/photos/npulso.png" height = 2000px></p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/npulso.png" height = 5000px></p>
 <br/><br/>
 </div>
 
@@ -27,7 +27,7 @@ title: "Starter hardware"
 <h1>Baterry</h1>
 
 
-<p><img style="float: left; margin-right: 500px;" src="/photos/Baterrytuto.png" width = 4000px> <img style="float: left; margin-right: 500px;" src="/photos/Baterry.png" width = 4000px> </p>
+<p><img style="float: left; margin-right: 500px;" src="/photos/Baterrytuto.png" width = 8000px> <img style="float: left; margin-right: 500px;" src="/photos/Baterry.png" width = 8000px> </p>
 <br/><br/>
 
  * For bench mode it is not necessary to use the battery
