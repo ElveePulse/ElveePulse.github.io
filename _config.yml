@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Starter hardware",file: "starter hardware.md",  icon: briefcase, sidebaricon: briefcase}
   - {title: "Make Yourself",file: "make yourself.md",  icon: briefcase, sidebaricon: briefcase}
   - {title: "3D case", file: "3D_case.md",  icon: briefcase, sidebaricon: briefcase} 
-  - {title: "Feedback", file: "Feedback.md",  icon: briefcase, sidebaricon: briefcase} 
+  - {title: "Feedback", file: "elvee_pulse.md",  icon: briefcase, sidebaricon: briefcase} 
   - {title: "Printed Board", file: "printed_board.md",  icon: briefcase, sidebaricon: briefcase} 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
